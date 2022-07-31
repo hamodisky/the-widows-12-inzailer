@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "widows 12 inzailer/1.0.0": {
+        "runtime": {
+          "widows 12 inzailer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "widows 12 inzailer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
